@@ -34,7 +34,7 @@ class ClassApp:
         self.settings = {
             'volume_sounds': 0,
             'volume_music': 0,
-            'name_app': 'PyBattle'
+            'name_app': 'MetroBattle'
         }
         debug = ClassFile().read_file_txt("data/debug.txt")
         if not debug:
@@ -308,7 +308,7 @@ class ClassApp:
                 print('Параметр названия приложения есть!')
             else:
                 if not self.helpers['class_db'].insert('settings', 'parameter, value, type_data',
-                                                       "'name_app', 'PyBattle', 'str'"):
+                                                       "'name_app', 'MetroBattle', 'str'"):
                     print('Параметр названия приложения не создан')
                     return False
                 else:
