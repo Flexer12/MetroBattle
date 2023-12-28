@@ -1,0 +1,3 @@
+name:Трава:str
+passability:1:bool
+transparency:1:bool

@@ -1,0 +1,7 @@
+name:Труба:str
+type:damage:str
+distance:1:int
+damage:4-6:range
+mass_action:0:bool
+number:2:int
+accuracy:0.75:float

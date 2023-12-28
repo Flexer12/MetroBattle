@@ -1,0 +1,5 @@
+name:Волк:str
+health:50:int
+cost:30:int
+experience:30:int
+technology:mutants:str

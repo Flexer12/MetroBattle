@@ -1,0 +1,7 @@
+name:Удар:str
+type:damage:str
+distance:1:int
+damage:12-15:range
+mass_action:0:bool
+number:2:int
+accuracy:0.8:float

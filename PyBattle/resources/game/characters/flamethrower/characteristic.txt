@@ -1,0 +1,5 @@
+name:Огнеметчик:str
+health:110:int
+cost:95:int
+experience:90:int
+technology:stormtroopers:str

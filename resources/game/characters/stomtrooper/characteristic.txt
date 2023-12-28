@@ -1,0 +1,5 @@
+name:Штурмовик:str
+health:80:int
+cost:75:int
+experience:75:int
+technology:stormtroopers:str

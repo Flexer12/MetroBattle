@@ -1,0 +1,7 @@
+name:Регенерация волка:str
+type:regeneration:str
+distance:0:int
+value:2-3:range
+number:1:int
+mass_action:0:bool
+accuracy:1:float

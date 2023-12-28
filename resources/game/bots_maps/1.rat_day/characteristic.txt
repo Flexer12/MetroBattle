@@ -1,0 +1,2 @@
+name:Крысиный день:str
+description:Битва двух ботов:str

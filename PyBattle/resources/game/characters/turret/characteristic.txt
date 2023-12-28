@@ -1,0 +1,5 @@
+name:Турель:str
+health:100:int
+cost:30:int
+experience:20:int
+technology:engineers:str

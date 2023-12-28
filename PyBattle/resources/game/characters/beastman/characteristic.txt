@@ -1,0 +1,5 @@
+name:Крысиный король:str
+health:80:int
+cost:30:int
+experience:35:int
+technology:militia:str

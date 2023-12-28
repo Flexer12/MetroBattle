@@ -1,0 +1,5 @@
+name:Проповедник:str
+health:30:int
+cost:100:int
+experience:100:int
+technology:support:str

@@ -1,0 +1,7 @@
+name:Граната:str
+type:damage:str
+distance:3:int
+damage:1-5:range
+mass_action:1:bool
+number:1:int
+accuracy:0.45:float

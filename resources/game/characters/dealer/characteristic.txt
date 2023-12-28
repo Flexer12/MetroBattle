@@ -1,0 +1,5 @@
+name:Диллер:str
+health:55:int
+cost:50:int
+experience:45:int
+technology:stormtroopers:str

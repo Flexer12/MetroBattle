@@ -1,0 +1,5 @@
+name:Костолом:str
+health:85:int
+cost:60:int
+experience:50:int
+technology:mutants:str

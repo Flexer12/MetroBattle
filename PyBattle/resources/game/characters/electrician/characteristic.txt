@@ -1,0 +1,5 @@
+name:Электрик:str
+health:30:int
+cost:30:int
+experience:20:int
+technology:engineers:str

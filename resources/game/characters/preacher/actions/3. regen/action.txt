@@ -1,0 +1,7 @@
+name:Молитва:str
+type:regeneration:str
+distance:6:int
+value:1-4:range
+number:1:int
+mass_action:1:bool
+accuracy:1:float

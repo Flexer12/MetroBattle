@@ -1,0 +1,3 @@
+name:Каменная стена:str
+passability:0:bool
+transparency:0:bool

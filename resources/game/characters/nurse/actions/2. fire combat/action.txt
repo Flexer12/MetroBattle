@@ -1,0 +1,7 @@
+name:Медицинский пистолет:str
+type:damage:str
+distance:3:int
+damage:4-5:range
+mass_action:0:bool
+number:1:int
+accuracy:0.9:float

@@ -1,0 +1,5 @@
+name:Собака:str
+health:35:int
+cost:0:int
+experience:30:int
+technology:-:str

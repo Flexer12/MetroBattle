@@ -1,0 +1,7 @@
+name:Пистолет-пулемёт:str
+type:damage:str
+distance:4:int
+damage:2-3:range
+mass_action:0:bool
+number:3:int
+accuracy:0.85:float

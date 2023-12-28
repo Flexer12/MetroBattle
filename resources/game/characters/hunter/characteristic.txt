@@ -1,0 +1,5 @@
+name:Наемник-инженер:str
+health:50:int
+cost:35:int
+experience:40:int
+technology:engineers:str

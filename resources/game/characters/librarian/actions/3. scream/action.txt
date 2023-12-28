@@ -1,0 +1,7 @@
+name:Боевой клич:str
+type:damage:str
+distance:10:int
+damage:2-5:range
+mass_action:1:bool
+number:1:int
+accuracy:0.65:float

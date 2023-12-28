@@ -1,0 +1,5 @@
+name:Дератизатор:str
+health:90:int
+cost:65:int
+experience:65:int
+technology:scientists:str

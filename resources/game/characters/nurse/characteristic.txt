@@ -1,0 +1,5 @@
+name:Медсестра:str
+health:25:int
+cost:40:int
+experience:30:int
+technology:support:str

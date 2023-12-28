@@ -1,0 +1,5 @@
+name:Шпион:str
+health:51:int
+cost:50:int
+experience:50:int
+technology:stormtroopers:str

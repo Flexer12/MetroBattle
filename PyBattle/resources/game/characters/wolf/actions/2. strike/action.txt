@@ -1,0 +1,7 @@
+name:Укус волка:str
+type:damage:str
+distance:1:int
+damage:6-8:range
+mass_action:0:bool
+number:2:int
+accuracy:0.65:float

@@ -1,0 +1,5 @@
+name:Стрелок:str
+health:40:int
+cost:40:int
+experience:30:int
+technology:militia:str

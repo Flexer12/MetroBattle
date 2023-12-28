@@ -1,0 +1,7 @@
+name:Плевок куста:str
+type:damage:str
+distance:2:int
+damage:6-8:range
+mass_action:0:bool
+number:1:int
+accuracy:0.65:float

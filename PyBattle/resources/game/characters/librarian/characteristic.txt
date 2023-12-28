@@ -1,0 +1,5 @@
+name:Библиотекарь:str
+health:120:int
+cost:120:int
+experience:100:int
+technology:mutants:str

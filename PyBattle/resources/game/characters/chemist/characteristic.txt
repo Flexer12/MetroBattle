@@ -1,0 +1,5 @@
+name:Химик:str
+health:50:int
+cost:35:int
+experience:35:int
+technology:scientists:str

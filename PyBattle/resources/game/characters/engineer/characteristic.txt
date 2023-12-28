@@ -1,0 +1,5 @@
+name:Инженер:str
+health:40:int
+cost:40:int
+experience:35:int
+technology:engineers:str

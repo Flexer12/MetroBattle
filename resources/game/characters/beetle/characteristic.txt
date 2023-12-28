@@ -1,0 +1,5 @@
+name:Жук:str
+health:65:int
+cost:15:int
+experience:20:int
+technology:mutants:str

@@ -1,0 +1,7 @@
+name:Молот:str
+type:damage:str
+distance:1:int
+damage:15-20:range
+mass_action:0:bool
+number:1:int
+accuracy:0.90:float

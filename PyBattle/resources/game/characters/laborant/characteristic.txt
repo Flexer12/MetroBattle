@@ -1,0 +1,5 @@
+name:Лаборант:str
+health:45:int
+cost:40:int
+experience:40:int
+technology:scintists:str

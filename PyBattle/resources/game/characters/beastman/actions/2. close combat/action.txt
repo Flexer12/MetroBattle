@@ -1,0 +1,7 @@
+name:Копье короля:str
+type:damage:str
+distance:1:int
+damage:12-15:range
+mass_action:0:bool
+number:1:int
+accuracy:0.9:float

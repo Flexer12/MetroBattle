@@ -1,0 +1,7 @@
+name:Пулемёт:str
+type:damage:str
+distance:6:int
+damage:1-7:range
+mass_action:0:bool
+number:5:int
+accuracy:0.6:float

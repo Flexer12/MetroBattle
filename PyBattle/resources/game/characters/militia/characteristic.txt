@@ -1,0 +1,5 @@
+name:Ополченец:str
+health:55:int
+cost:25:int
+experience:25:int
+technology:militia:str

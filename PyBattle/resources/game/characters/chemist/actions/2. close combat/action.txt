@@ -1,0 +1,7 @@
+name:Химический удар:str
+type:damage:str
+distance:1:int
+damage:7-10:range
+mass_action:0:bool
+number:1:int
+accuracy:0.88:float

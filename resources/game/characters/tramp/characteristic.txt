@@ -1,0 +1,5 @@
+name:Бродяга:str
+health:60:int
+cost:20:int
+experience:20:int
+technology:militia:str

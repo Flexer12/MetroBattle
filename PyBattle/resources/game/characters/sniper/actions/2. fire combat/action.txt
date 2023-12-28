@@ -1,0 +1,7 @@
+name:Винтовка:str
+type:damage:str
+distance:8:int
+damage:6-14:range
+mass_action:0:bool
+number:1:int
+accuracy:0.95:float

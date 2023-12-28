@@ -1,0 +1,5 @@
+name:Крыса:str
+health:25:int
+cost:10:int
+experience:10:int
+technology:mutants:str
